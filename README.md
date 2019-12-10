@@ -1,3 +1,0 @@
-# shreddit
-
-shreddit baby

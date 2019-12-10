@@ -5,32 +5,43 @@ h1 {
 }
 
 .surf {
-    color: green;
+    color: lightskyblue;
     size: 25px;
+    background-color: orange;
+    font-style: bold;
+    
 }
 
 .ski {
-    background-color: orange;
+    background-color: lightblue;
 }
 
 .image {
-    background-image:url("/users/liam.hession/Desktop/wave.jpg");
     height: 500px;
     width: 200px;
 }
 
-.introduction {
+.header {
     background-color: blanchedalmond;
     text-align: center;
     font-size: 40px;
 }
 
 .surftab {
-    text-align: center;
+    text-align: left;
     font-size: 40px;
+    background-color: red;
 }
 
 .skitab {
     text-align: center;
     font-size: 40px;
+    background-color: blue;
+    color: red;
+}
+
+.sendsection {
+    text-align: right;
+    font-size: 40px;
+    background-color: green;
 }
