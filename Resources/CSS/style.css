@@ -3,11 +3,29 @@ h1 {
     color: blue;
     font-size: 100px;
 }
+.surftab {
+    text-align: left;
+    font-size: 40px;
+    background-color: turquoise;
+}
+
+.skitab {
+    text-align: center;
+    font-size: 40px;
+    background-color: white;
+    color: red;
+}
+
+.sendsection {
+    text-align: right;
+    font-size: 40px;
+    background-color: lightseagreen;
+}
+
 
 .surf {
-    color: lightskyblue;
+    color: blue;
     size: 25px;
-    background-color: orange;
     font-style: bold;
     
 }
@@ -27,21 +45,3 @@ h1 {
     font-size: 40px;
 }
 
-.surftab {
-    text-align: left;
-    font-size: 40px;
-    background-color: red;
-}
-
-.skitab {
-    text-align: center;
-    font-size: 40px;
-    background-color: blue;
-    color: red;
-}
-
-.sendsection {
-    text-align: right;
-    font-size: 40px;
-    background-color: green;
-}
